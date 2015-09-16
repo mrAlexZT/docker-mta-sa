@@ -1,0 +1,1 @@
+script -c "screen -r"
